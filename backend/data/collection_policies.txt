@@ -1,0 +1,36 @@
+POLICY: EMI Reminder Communication
+Borrowers who are 1-14 days past due should receive a courteous SMS or email reminder. The tone must be professional and non-threatening. Include the outstanding EMI amount, due date, and convenient payment options. Avoid calling during non-business hours (before 8 AM or after 7 PM).
+---
+POLICY: EMI Restructure Eligibility
+Borrowers who are 15-60 days past due and have a history of at least 6 months of previous on-time payments may be offered EMI restructuring. The restructured EMI should not exceed 50% of the borrower's declared monthly income. Maximum tenure extension allowed is 12 months.
+---
+POLICY: Settlement Offer Guidelines
+Settlement offers can only be made for borrowers who are 60+ days past due and classified as High Risk. Minimum settlement amount is 70% of the outstanding balance. Settlement must be approved by a senior collection manager. All settlement agreements must be documented in writing.
+---
+POLICY: Escalation to Recovery Team
+Accounts with 90+ days past due and no response to 3 or more contact attempts should be escalated to the recovery team. Recovery actions must comply with RBI guidelines on fair practices. Physical visits require prior written notice of at least 7 days.
+---
+REGULATION: RBI Fair Practices Code for Debt Collection
+As per RBI circular, banks must ensure that the staff engaged in collection are properly trained. Collection calls must be made only between 7 AM and 7 PM. Borrowers must not be harassed, threatened, or subjected to any form of abuse. All communication must be in a language understood by the borrower.
+---
+REGULATION: Privacy and Data Protection
+Borrower personal information must not be shared with unauthorized parties. Collection agents must identify themselves and their organization before any communication. Call recordings must be stored securely for a minimum of 1 year for audit purposes.
+---
+PROCEDURE: Self-Cure Monitoring
+Borrowers classified as Self-Cure segment should be monitored passively for 15 days before any outreach. If payment is received within 15 days, no collection action is taken. If no payment after 15 days, the account is reclassified to Medium Risk and a reminder is triggered.
+---
+PROCEDURE: Payment Promise Follow-up
+When a borrower makes a Promise to Pay, the system should automatically schedule a follow-up after the promised date. If payment is received, the interaction is marked as resolved. If not received within 3 days of the promised date, escalate to next contact attempt.
+---
+PROCEDURE: Multilingual Communication Protocol
+All borrower communication must be attempted in the borrower's preferred language as recorded in the customer profile. If the preferred language is not available, default to English and Hindi. Written communication (SMS, email) must include both English and the preferred language.
+---
+GUIDELINE: Recovery Strategy Selection Matrix
+Self-Cure segment (probability > 70%): Send automated reminder only. Medium Risk segment (probability 40-70%): Assign to collection agent for personal follow-up. High Risk segment (probability < 40%): Immediate assignment to senior collection agent with restructure or settlement authority.
+---
+GUIDELINE: NPV-based Recovery Decision
+When deciding between restructure and settlement, calculate the Net Present Value of both options. If NPV of restructured payments exceeds NPV of settlement amount, prefer restructure. Use a discount rate of 12% per annum for NPV calculations. Recovery horizon should not exceed 6 months for settlements and 12 months for restructures.
+---
+GUIDELINE: Credit Score Impact Assessment
+Borrowers with credit score above 700 who are less than 30 days past due should be treated with extra care to maintain their credit relationship. For borrowers with credit score below 600 and 60+ days past due, aggressive recovery strategies may be applied within regulatory limits.
+

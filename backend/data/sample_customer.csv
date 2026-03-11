@@ -1,0 +1,11 @@
+customer_id,customer_name,mobile_number,email_id,preferred_language,employment_type,company_name,monthly_income,credit_score
+CUST-1001,Rajesh Kumar,9876543210,rajesh.kumar@email.com,Hindi,Salaried,Infosys Ltd,75000,720
+CUST-1002,Priya Sharma,9876543211,priya.sharma@email.com,English,Salaried,TCS,65000,680
+CUST-1003,Amit Patel,9876543212,amit.patel@email.com,Hindi,Self-Employed,Patel Traders,90000,750
+CUST-1004,Sneha Reddy,9876543213,sneha.reddy@email.com,Telugu,Salaried,Wipro,55000,620
+CUST-1005,Mohammed Irfan,9876543214,irfan.m@email.com,Hindi,Self-Employed,Irfan Textiles,120000,700
+CUST-1006,Kavitha Nair,9876543215,kavitha.nair@email.com,Tamil,Salaried,HCL Tech,80000,740
+CUST-1007,Suresh Yadav,9876543216,suresh.yadav@email.com,Hindi,Salaried,Maruti Suzuki,45000,580
+CUST-1008,Deepa Joshi,9876543217,deepa.joshi@email.com,Marathi,Self-Employed,Joshi Pharma,95000,710
+CUST-1009,Vikram Singh,9876543218,vikram.singh@email.com,Hindi,Salaried,HDFC Bank,70000,690
+CUST-1010,Lakshmi Iyer,9876543219,lakshmi.iyer@email.com,Tamil,Salaried,Cognizant,60000,660

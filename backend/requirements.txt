@@ -1,17 +1,28 @@
+# --- Web Framework ---
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
+pydantic-settings
+
+# --- Database (SQLite is built-in, no extra driver needed) ---
 sqlalchemy
-psycopg2-binary
+
+# --- Data Processing ---
 pandas
 numpy
 scikit-learn
 
+# --- AI / Agent Framework ---
 langchain
+langchain-community
 langgraph
 
+# --- Vector DB & Embeddings (ChromaDB runs locally) ---
 chromadb
 sentence-transformers
 
+# --- LLM Runtime ---
 ollama
+
+# --- Utilities ---
 python-dotenv
